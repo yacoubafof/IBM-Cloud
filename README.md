@@ -16,4 +16,6 @@ Les principaux points abordés dans ce TP sont :
 **- _Reproductibilité :_** Nous vérifions ici la reproductibilité des données. L'idée est de verifier dans quel mésure le modèle est capable de reproduire les données qui ont servi à son élaboration. Dans ce cas précis, il s'agira de vérifier si le modèle est capable de prédire si un véhicule est performant ou pas en fonction des caractéristiques du véhicule.
 
 
-Le fichier _**EMGrenoble_CarPerformance_Data**_ contient le jeu de donnée nécessaire pour ce TP.
+- Le fichier _**EMGrenoble_CarPerformance_Data**_ contient le jeu de donnée nécessaire pour ce TP.
+
+- Le notebook _**car_performance_notebook.ipynb**_ contient les codes python pour réaliser ce TP.
